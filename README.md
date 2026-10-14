@@ -1,11 +1,11 @@
-# GrowCare 🌱
+# GrowCare 
 ### Digital Healthcare Solution for Children with Special Needs
 
 GrowCare is a mobile application UI/UX design project created to support the healthcare and developmental needs of children with special needs (*Anak Berkebutuhan Khusus* / ABK). The application aims to help caregivers access reliable information, professional consultations, child development monitoring, and supportive communities through an integrated digital platform.
 
 This project was developed for the **IEEE Fest Competition 2025 – UI/UX Design Competition** and received the **Best Innovation Award**.
 
-## 🎯 Project Overview
+## Project Overview
 
 Children with special needs and their caregivers may face challenges in accessing reliable healthcare information, maintaining therapy schedules, monitoring child development, and finding appropriate healthcare facilities.
 
@@ -18,7 +18,7 @@ GrowCare was designed to address these challenges through a user-centered mobile
 **Competition:** IEEE Fest Competition 2025  
 **Achievement:** Best Innovation Award
 
-## ✨ Key Features
+## Key Features
 
 - **Healthcare Facilities:** Discover healthcare facilities and access information about their services, locations, operating hours, and contact details.
 - **Professional Consultation:** Explore available healthcare professionals, schedule consultations, and access messaging, voice calls, and video calls.
@@ -28,7 +28,7 @@ GrowCare was designed to address these challenges through a user-centered mobile
 - **Community Forum:** Connect with other caregivers, share experiences, and provide mutual support.
 - **User Account Management:** Manage account information, privacy settings, notifications, and activity history.
 
-## 🎨 Design Process
+## Design Process
 
 The project followed the **Design Thinking** methodology, consisting of five stages:
 
@@ -38,7 +38,7 @@ The project followed the **Design Thinking** methodology, consisting of five sta
 4. **Prototype:** Created low-fidelity and high-fidelity prototypes for caregiver and healthcare professional interfaces using Figma.
 5. **Test:** Evaluated prototype usability through Maze and Microsoft Forms to gather user feedback.
 
-## 🧪 Usability Testing Results
+## Usability Testing Results
 
 Usability testing involved **17 respondents** and used Maze and Microsoft Forms.
 
@@ -52,7 +52,7 @@ Usability testing involved **17 respondents** and used Maze and Microsoft Forms.
 
 These results indicate positive user feedback regarding the prototype's usability and interface design.
 
-## 🛠️ Tools & Methods
+## Tools & Methods
 
 - Figma for UI/UX design and interactive prototyping
 - Maze for usability testing
@@ -60,13 +60,13 @@ These results indicate positive user feedback regarding the prototype's usabilit
 - Google Forms for user research
 - Design Thinking for the user-centered design process
 
-## 🔗 Project Links
+## Project Links
 
 - **Interactive Figma Prototype:** [Explore GrowCare](https://www.figma.com/proto/0Ep6TfP80plFK3lTvpJF64/GrowCare?node-id=2013-12418&p=f&t=0zw88xvyRqFlKFja-1&scaling=scale-down&content-scaling=fixed&page-id=120%3A473&starting-point-node-id=2013%3A13420)
 - **Project Proposal:** See `docs/proposal-growcare.pdf` in this repository.
 - **Usability Testing Report:** [View Maze Report](https://app.maze.co/report/growcare/fc3bcg6mehgjuhc/intro)
 
-## 🌍 Social Impact
+## Social Impact
 
 GrowCare supports the Sustainable Development Goals (SDGs):
 
@@ -74,11 +74,11 @@ GrowCare supports the Sustainable Development Goals (SDGs):
 - **SDG 4 – Quality Education:** Providing educational resources for caregivers.
 - **SDG 10 – Reduced Inequalities:** Promoting more inclusive access to healthcare support for children with special needs.
 
-## ⚠️ Project Scope & Limitations
+## Project Scope & Limitations
 
 GrowCare is a UI/UX prototype rather than a fully functional application. The project focuses on interface design, navigation flows, and simulated user interactions. Backend services, live consultation infrastructure, and direct healthcare appointment integrations have not been implemented.
 
-## 👥 Project Team
+## Project Team
 
 This project was developed collaboratively by:
 
@@ -88,7 +88,7 @@ This project was developed collaboratively by:
 - Nafsul Izzaty
 - Sitomorang Grandy Alexander
 
-## 🏆 Achievement
+## Achievement
 
 **Best Innovation Award – IEEE Universitas Brawijaya UI/UX Design Competition**
 
