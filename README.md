@@ -63,7 +63,7 @@ These results indicate positive user feedback regarding the prototype's usabilit
 ## Project Links
 
 - **Interactive Figma Prototype:** [Explore GrowCare](https://www.figma.com/proto/0Ep6TfP80plFK3lTvpJF64/GrowCare?node-id=2013-12418&p=f&t=0zw88xvyRqFlKFja-1&scaling=scale-down&content-scaling=fixed&page-id=120%3A473&starting-point-node-id=2013%3A13420)
-- **Project Proposal:** See `docs/proposal-growcare.pdf` in this repository.
+- **Project Proposal:** See `Proposal-GrowCare_UIUX Design.pdf` in this repository.
 - **Usability Testing Report:** [View Maze Report](https://app.maze.co/report/growcare/fc3bcg6mehgjuhc/intro)
 
 ## Social Impact
